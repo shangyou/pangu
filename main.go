@@ -1,7 +1,7 @@
 package main
 
 import (
-	"pangu/core"
+	"github.com/pangu/core"
 )
 
 func main() {
